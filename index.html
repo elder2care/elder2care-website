@@ -468,7 +468,25 @@
     .partners-band{padding:34px;}
     .j-step{flex:0 0 100%;}
   }
-
+@media (max-width:480px){
+ .nav-row{
+    gap:8px;
+    padding:10px 16px;
+  }
+  .brand img{
+    width:40px;
+    height:40px;
+  }
+  .brand-text strong{
+    font-size:15px;
+  }
+  .brand-text span{
+    display:none;
+  }
+  .nav-actions{
+    gap:6px;
+  }
+}
   /* mobile nav drawer */
   .mobile-nav{
     position:fixed; inset:0; background:var(--navy-deep); z-index:900; display:flex; flex-direction:column;
@@ -530,7 +548,7 @@
 
 <!-- mobile nav -->
 <div class="mobile-nav" id="mobileNav">
-  <div class="close-row"><button id="closeMobileNav" aria-label="Close menu">\u2715</button></div>
+  <div class="close-row"><button id="closeMobileNav" aria-label="Close menu">✕</button></div>
   <ul>
     <li><a href="#about">About</a></li>
     <li><a href="#serve">Who We Serve</a></li>
