@@ -950,42 +950,82 @@
       <h2>Let's build healthier aging, together</h2>
       <p>Reach out as an older adult, caregiver, volunteer, healthcare provider, business, municipality or researcher &mdash; we'd love to hear from you.</p>
     </div>
+
     <div class="contact-wrap reveal">
+      <!-- Contact Information -->
       <div class="contact-info">
         <h3>Get in touch</h3>
+
         <div class="contact-row">
           <div class="ic">📍</div>
-          <div><strong>Location</strong><span>Brampton, Ontario, Canada</span></div>
+          <div>
+            <strong>Location</strong>
+            <span>Brampton, Ontario, Canada</span>
+          </div>
         </div>
+
         <div class="contact-row">
           <div class="ic">✉</div>
-          <div><strong>Email</strong><a href="mailto:info@elder2care.ca">info@elder2care.ca</a></div>
+          <div>
+            <strong>Email</strong>
+            <a href="mailto:info@elder2care.ca">info@elder2care.ca</a>
+          </div>
         </div>
+
         <div class="contact-row">
           <div class="ic">🌐</div>
-          <div><strong>Email</strong><a href="mailto:info@elder2care.ca">info@elder2care.ca</a></div>
+          <div>
+            <strong>Website</strong>
+            <span>www.elder2care.ca</span>
+          </div>
         </div>
-        <div class="contact-row">
-          <div class="ic">🌐</div>
-          <div><strong>Website</strong><span>www.elder2care.ca</span></div>
-        </div>
+
         <div class="contact-socials">
           <a href="https://www.facebook.com/Elder2Care" target="_blank" rel="noopener" aria-label="Facebook">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><path d="M14 9h3V5.6c-.5-.07-2.2-.6-3.7-.6-3.7 0-5.4 2.3-5.4 5.4V13H4v3.7h3.9V22h4V16.7h3.3l.6-3.7h-3.9v-2.2c0-1.1.3-1.8 2.1-1.8Z" stroke="currentColor" stroke-width="1.5"/></svg>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+              <path d="M14 9h3V5.6c-.5-.07-2.2-.6-3.7-.6-3.7 0-5.4 2.3-5.4 5.4V13H4v3.7h3.9V22h4V16.7h3.3l.6-3.7h-3.9v-2.2c0-1.1.3-1.8 2.1-1.8Z" stroke="currentColor" stroke-width="1.5"/>
+            </svg>
           </a>
+
           <a href="https://www.linkedin.com/company/elder2care" target="_blank" rel="noopener" aria-label="LinkedIn">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><rect x="3" y="3" width="18" height="18" rx="3" stroke="currentColor" stroke-width="1.5"/><path d="M7.5 10v6.5M7.5 7.5v.01M11.5 16.5V13c0-1.4.9-2.3 2-2.3s2 .9 2 2.3v3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+              <rect x="3" y="3" width="18" height="18" rx="3" stroke="currentColor" stroke-width="1.5"/>
+              <path d="M7.5 10v6.5M7.5 7.5v.01M11.5 16.5V13c0-1.4.9-2.3 2-2.3s2 .9 2 2.3v3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+            </svg>
           </a>
+
           <a href="https://www.instagram.com/elder2care" target="_blank" rel="noopener" aria-label="Instagram">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none"><rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" stroke-width="1.5"/><circle cx="12" cy="12" r="3.5" stroke="currentColor" stroke-width="1.5"/><circle cx="17.2" cy="6.8" r="1" fill="currentColor"/></svg>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none">
+              <rect x="3" y="3" width="18" height="18" rx="5" stroke="currentColor" stroke-width="1.5"/>
+              <circle cx="12" cy="12" r="3.5" stroke="currentColor" stroke-width="1.5"/>
+              <circle cx="17.2" cy="6.8" r="1" fill="currentColor"/>
+            </svg>
           </a>
         </div>
       </div>
-      <form class="contact-form" id="contactForm">
+
+      <!-- Contact Form -->
+      <form class="contact-form" id="contactForm" action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value="199a7b7e-05a8-4d5b-8d8d-c5ab8093ef26">
+        <input type="hidden" name="subject" value="New Contact Form Submission from Elder2Care">
+        <input type="hidden" name="from_name" value="Elder2Care Website">
+
         <div class="form-grid">
-          <div class="field"><label for="cName">Full name</label><input id="cName" name="name" type="text" required autocomplete="name"></div>
-          <div class="field"><label for="cEmail">Email</label><input id="cEmail" name="email" type="email" required autocomplete="email"></div>
-          <div class="field"><label for="cPhone">Phone</label><input id="cPhone" name="phone" type="tel" autocomplete="tel"></div>
+          <div class="field">
+            <label for="cName">Full name</label>
+            <input id="cName" name="name" type="text" required autocomplete="name">
+          </div>
+
+          <div class="field">
+            <label for="cEmail">Email</label>
+            <input id="cEmail" name="email" type="email" required autocomplete="email">
+          </div>
+
+          <div class="field">
+            <label for="cPhone">Phone</label>
+            <input id="cPhone" name="phone" type="tel" autocomplete="tel">
+          </div>
+
           <div class="field">
             <label for="cReason">Reason for enquiry</label>
             <select id="cReason" name="reason" required>
@@ -1000,10 +1040,18 @@
               <option>General Enquiry</option>
             </select>
           </div>
-          <div class="field full"><label for="cMessage">Message</label><textarea id="cMessage" name="message" required></textarea></div>
+
+          <div class="field full">
+            <label for="cMessage">Message</label>
+            <textarea id="cMessage" name="message" required></textarea>
+          </div>
         </div>
+
         <button type="submit" class="btn btn-primary" style="width:100%;">Send Message</button>
-        <p class="form-note" id="formNote">Need assistance? Complete the form below and the Elder2Care team will respond as soon as possible.</p>
+
+        <p class="form-note" id="formNote">
+          Need assistance? Complete the form below and the Elder2Care team will respond as soon as possible.
+        </p>
       </form>
     </div>
   </div>
@@ -1193,19 +1241,60 @@
   document.getElementById('testiNext').addEventListener('click', function(){ goToSlide(current+1); });
   setInterval(function(){ goToSlide(current+1); }, 7000);
 
-  /* ---- Contact form (front-end only) ---- */
-  document.getElementById('contactForm').addEventListener('submit', function(e){
-    e.preventDefault();
-    var note = document.getElementById('formNote');
-    note.textContent = "Thank you \u2014 your message is ready to send. Connect this form to your email service or CRM to deliver it.";
-    note.style.color = "var(--green)";
-    this.reset();
-  });
-  document.getElementById('newsletterForm').addEventListener('submit', function(e){
-    e.preventDefault();
-    this.querySelector('input').value = '';
-    this.querySelector('button').textContent = 'Subscribed';
-  });
+ /* ---- Contact Form using Web3Forms ---- */
+
+const contactForm = document.getElementById("contactForm");
+
+contactForm.addEventListener("submit", async function (e) {
+  e.preventDefault();
+
+  const formNote = document.getElementById("formNote");
+  const submitButton = contactForm.querySelector("button[type='submit']");
+
+  submitButton.disabled = true;
+  submitButton.textContent = "Sending...";
+
+  const formData = new FormData(contactForm);
+
+  try {
+    const response = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      body: formData
+    });
+
+    const result = await response.json();
+
+    if (result.success) {
+      formNote.style.color = "var(--green)";
+      formNote.textContent =
+        "✅ Thank you! Your message has been sent successfully. We will get back to you soon.";
+
+      contactForm.reset();
+    } else {
+      formNote.style.color = "#d9534f";
+      formNote.textContent =
+        "❌ Sorry, your message could not be sent. Please try again.";
+    }
+
+  } catch (error) {
+    formNote.style.color = "#d9534f";
+    formNote.textContent =
+      "❌ Network error. Please check your internet connection and try again.";
+  }
+
+  submitButton.disabled = false;
+  submitButton.textContent = "Send Message";
+});
+
+
+/* ---- Newsletter Form ---- */
+
+document.getElementById("newsletterForm").addEventListener("submit", function (e) {
+  e.preventDefault();
+
+  this.querySelector("input").value = "";
+  this.querySelector("button").textContent = "Subscribed";
+});
 
   /* ---- Ellie guide ---- */
   var ellieMessages = [
