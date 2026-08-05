@@ -457,8 +457,28 @@
   @media (max-width:820px){
   nav.main-nav, .nav-actions .social-inline{display:none;}
   .burger{display:flex;}
-  .theme-toggle{width:20px; height:20px;}
-  .theme-toggle svg{width:7px; height:7px;}
+  .theme-toggle{width:34px; height:34px;}
+  .theme-toggle svg{width:14px; height:14px;}
+
+  .nav-row .btn.btn-primary.btn-sm {
+    min-width: auto;
+    padding: 10px 14px;
+    overflow: hidden;
+    text-indent: -9999px;
+    white-space: nowrap;
+    position: relative;
+  }
+
+  .nav-row .btn.btn-primary.btn-sm::after {
+    content: "Support";
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-indent: 0;
+  }
+
   .section{padding:76px 0;}
   .form-grid{grid-template-columns:1fr;}
   .footer-grid{grid-template-columns:1fr 1fr; row-gap:34px;}
