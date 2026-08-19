@@ -1,5 +1,8 @@
+"use client";
+
 import Image from "next/image";
 import Link from "next/link";
+import { useState } from "react";
 
 const navItems = [
   { label: "About", href: "/about" },
@@ -10,14 +13,22 @@ const navItems = [
 ];
 
 export default function Header() {
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  function closeMenu() {
+    setMenuOpen(false);
+  }
+
   return (
     <header className="site-header">
-
-      {/* =====================================================
-          BRAND AREA — completely independent of navigation
-          ===================================================== */}
+      {/* BRAND AREA */}
       <div className="brand-header">
-        <Link href="/" className="brand" aria-label="Elder2Care home">
+        <Link
+          href="/"
+          className="brand"
+          aria-label="Elder2Care home"
+          onClick={closeMenu}
+        >
           <div className="brand-logo-frame">
             <Image
               src="/images/elder2care-logo.png"
@@ -96,9 +107,7 @@ export default function Header() {
         </div>
       </div>
 
-      {/* =====================================================
-          NAVIGATION BAR — NO LOGO HERE
-          ===================================================== */}
+      {/* NAVIGATION BAR */}
       <div className="navigation-bar">
         <nav className="desktop-nav" aria-label="Primary navigation">
           {navItems.map((item) => (
@@ -115,7 +124,10 @@ export default function Header() {
         <button
           type="button"
           className="mobile-menu-button"
-          aria-label="Open navigation"
+          aria-label={menuOpen ? "Close navigation" : "Open navigation"}
+          aria-expanded={menuOpen}
+          aria-controls="mobile-navigation"
+          onClick={() => setMenuOpen((open) => !open)}
         >
           <span />
           <span />
@@ -123,6 +135,28 @@ export default function Header() {
         </button>
       </div>
 
+      {/* MOBILE NAVIGATION */}
+      {menuOpen && (
+        <nav
+          id="mobile-navigation"
+          className="mobile-navigation"
+          aria-label="Mobile navigation"
+        >
+          {navItems.map((item) => (
+            <Link key={item.href} href={item.href} onClick={closeMenu}>
+              {item.label}
+            </Link>
+          ))}
+
+          <Link
+            className="mobile-nav-cta"
+            href="/contact"
+            onClick={closeMenu}
+          >
+            Let&apos;s Connect
+          </Link>
+        </nav>
+      )}
     </header>
   );
 }
