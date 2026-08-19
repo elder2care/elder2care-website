@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-
 import Link from "next/link";
+import ContactForm from "@/components/ContactForm";
 
 export const metadata: Metadata = {
   title: "Contact Elder2Care",
@@ -86,76 +86,7 @@ export default function ContactPage() {
           <span className="section-kicker">SEND A MESSAGE</span>
           <h2>How can we connect?</h2>
 
-          <form className="contact-form">
-
-            <div className="form-row">
-              <label>
-                Full name
-                <input
-                  type="text"
-                  name="name"
-                  placeholder="Your full name"
-                  required
-                />
-              </label>
-
-              <label>
-                Email
-                <input
-                  type="email"
-                  name="email"
-                  placeholder="you@example.com"
-                  required
-                />
-              </label>
-            </div>
-
-            <div className="form-row">
-              <label>
-                Phone
-                <input
-                  type="tel"
-                  name="phone"
-                  placeholder="Optional"
-                />
-              </label>
-
-              <label>
-                Reason for enquiry
-                <select name="reason" defaultValue="">
-                  <option value="" disabled>
-                    Select one
-                  </option>
-                  <option value="partnership">Partnership</option>
-                  <option value="community">Community support</option>
-                  <option value="volunteer">Volunteer / Care Champion</option>
-                  <option value="healthcare">Healthcare organization</option>
-                  <option value="research">Research</option>
-                  <option value="general">General enquiry</option>
-                </select>
-              </label>
-            </div>
-
-            <label>
-              Message
-              <textarea
-                name="message"
-                rows={7}
-                placeholder="Tell us how you would like to connect with Elder2Care..."
-                required
-              />
-            </label>
-
-            <button type="submit" className="button button-primary">
-              Send Message
-            </button>
-
-            <p className="form-note">
-              Need assistance? Complete the form and the Elder2Care team
-              will respond as soon as possible.
-            </p>
-
-          </form>
+          <ContactForm />
         </div>
 
       </section>
