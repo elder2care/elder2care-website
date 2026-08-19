@@ -1,0 +1,20 @@
+# Local AI / development tooling
+.21st/
+.claude/
+.mcp.json
+
+# Next.js project secrets
+elder2care-next/.env*
+elder2care-next/node_modules/
+elder2care-next/.next/
+elder2care-next/out/
+elder2care-next/build/
+
+# OS files
+.DS_Store
+
+# Development backups — not part of production website
+elder2care-next/src-backup-before-full-migration/
+elder2care-next/src-backup-before-site-migration/
+elder2care-next/src.backup-before-migration/
+elder2care-next/src/app/platform/page.tsx.backup

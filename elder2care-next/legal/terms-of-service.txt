@@ -1,0 +1,148 @@
+Elder2Care Terms of Service
+Last Updated: August 18, 2026
+Welcome, and thank you for your interest in Elder2Care.
+These Terms of Service constitute a legally binding agreement between you and Elder2Care governing your access to and use of the Elder2Care website, mobile applications, digital platforms, community resources, navigation services, content, tools, and other services provided by Elder2Care, collectively referred to as the “Services.”
+Please read these Terms carefully before accessing or using the Services.
+By accessing, registering for, or using the Services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree with these Terms, you must not access or use the Services.
+1. Privacy Policy and Additional Terms
+Our Privacy Policy explains how Elder2Care collects, uses, stores, protects, and shares information. The Privacy Policy forms part of these Terms of Service.
+Your use of the Services may also be subject to additional terms, policies, guidelines, consent forms, community standards, or other conditions that we may publish or provide to you from time to time. These additional terms are incorporated into these Terms by reference.
+If you provide information about another individual, including an older adult, family member, caregiver, or other person receiving or considering care or support, you represent that you have the legal authority or appropriate consent to provide that information where required by applicable law.
+2. Eligibility
+You must be at least 13 years of age, or such higher minimum age as may be required by applicable law in your jurisdiction, to access or use the Services.
+If you are under the age of majority in your jurisdiction, you may use the Services only with the involvement and consent of a parent, guardian, or other person legally authorized to provide such consent where required.
+You represent that you have the legal capacity to enter into these Terms.
+Elder2Care may restrict or terminate access to the Services where we reasonably believe that a user has violated these Terms or applicable law.
+3. Accounts
+Certain features of the Services may require you to create an account.
+When creating an account, you agree to provide accurate, current, and complete information and to keep that information updated.
+You are responsible for maintaining the confidentiality of your account credentials and for activities conducted through your account.
+You must notify Elder2Care promptly if you believe that your account has been accessed without authorization or that your account information has been compromised.
+Elder2Care is not responsible for losses resulting from your failure to maintain the security of your account credentials.
+4. User Information and User Content
+You may provide information through the Services relating to yourself or, where authorized, another person.
+This information may include contact information, care preferences, information concerning daily living needs, community support needs, service preferences, appointment information, accessibility requirements, and other information relevant to the Services.
+You remain responsible for the accuracy and legality of information that you provide.
+You represent that you have the necessary rights, permissions, and consents to provide information concerning another person.
+You retain ownership of information and content that you provide to Elder2Care, subject to the rights granted to Elder2Care under these Terms and our Privacy Policy.
+You grant Elder2Care a non exclusive right to collect, process, store, reproduce, transmit, and use information you provide as reasonably necessary to operate, maintain, secure, improve, and provide the Services, subject to applicable law and our Privacy Policy.
+Where permitted by applicable law, Elder2Care may use information that has been aggregated, de identified, or anonymized for purposes such as service improvement, research, analytics, planning, reporting, and development of new services, provided that such information is not used in a manner that identifies you as the source.
+Elder2Care will not sell identifiable personal information contrary to applicable privacy law or our Privacy Policy.
+5. Care Navigation and Community Information
+Elder2Care may provide information, recommendations, directories, referrals, navigation assistance, educational content, community resources, and connections to organizations or service providers.
+The purpose of these Services is to help individuals and caregivers better understand available resources and identify potential sources of assistance.
+Elder2Care does not guarantee that any particular service, organization, provider, program, appointment, funding opportunity, eligibility determination, or community resource will be available.
+Information relating to a service provider or community organization does not constitute an endorsement, certification, guarantee, or recommendation of that provider unless Elder2Care expressly states otherwise.
+Users are responsible for independently confirming the suitability, availability, qualifications, pricing, eligibility requirements, and terms of any third party service before relying upon or purchasing that service.
+6. No Medical or Professional Advice
+Elder2Care is not a substitute for professional medical, nursing, legal, financial, mental health, emergency, or other professional advice.
+Information provided through the Services is intended for general informational and care navigation purposes.
+Elder2Care does not diagnose, treat, cure, or prevent medical conditions and does not provide emergency medical services through the Services.
+You should consult an appropriately qualified healthcare or other professional regarding your individual circumstances.
+If you believe that you or another person is experiencing a medical emergency or immediate danger, contact the appropriate emergency service in your jurisdiction rather than relying upon Elder2Care.  a. Future Development of Elder2Care Services
+Elder2Care is intended to evolve as a technology enabled healthy aging platform.
+The Services may develop progressively from responding to immediate care and support needs, to proactive identification and coordination of resources, and, where legally permitted and appropriately supported by available information, to predictive and personalized healthy aging capabilities.
+As the Services evolve, Elder2Care may introduce additional tools, assessments, analytics, data integrations, digital resources, connected technologies, community intelligence, personalization features, and other capabilities designed to support independence, wellbeing, care navigation, prevention, planning, and healthy aging.
+The availability of any particular capability will depend on the Services offered at the relevant time and the information, permissions, consents, technology, and legal requirements applicable to that capability.
+Where a future feature involves the collection, use, or disclosure of personal information for a materially different purpose, Elder2Care will provide appropriate notice and obtain consent where required by applicable law.
+Nothing in this section represents that Elder2Care currently provides any particular predictive, medical, diagnostic, monitoring, or other capability unless expressly stated as part of the Services.
+
+7. Third Party Services and Providers
+The Services may contain information about or provide access to third party organizations, service providers, community programs, transportation services, healthcare organizations, pharmacies, housing providers, technology providers, government programs, nonprofit organizations, and other third parties.
+Third party services may be subject to separate terms and privacy policies.
+Elder2Care does not control third party services and is not responsible for their availability, conduct, information, products, services, pricing, privacy practices, security, or performance.
+Information supplied by third parties may change without notice.
+Any decision to contact, engage, purchase from, or otherwise use a third party service is made at your own discretion.
+8. User Conduct
+You agree not to:
+	•	Use the Services for an unlawful purpose.
+	•	Provide information that you know is false, misleading, fraudulent, or materially incomplete.
+	•	Impersonate another person or organization.
+	•	Attempt to gain unauthorized access to the Services or another user’s account.
+	•	Introduce malicious software, viruses, or other harmful code.
+	•	Interfere with the operation, security, or availability of the Services.
+	•	Use automated systems, crawlers, scraping tools, or other unauthorized methods to access or collect information from the Services.
+	•	Reverse engineer, decompile, disassemble, or attempt to discover the source code of the Services except where expressly permitted by applicable law.
+	•	Copy, reproduce, distribute, sell, lease, sublicense, or commercially exploit Elder2Care’s proprietary materials without written authorization.
+	•	Use the Services in a manner that violates the rights, privacy, safety, or dignity of another person.
+	•	Use the Services to harass, abuse, threaten, defame, discriminate against, or exploit another person.
+	•	Use information obtained through the Services for unauthorized commercial purposes.
+9. Elder2Care Materials and Intellectual Property
+Except for information and content provided by users or third parties, the Services and all related materials, including text, graphics, logos, designs, software, databases, interfaces, trademarks, service marks, educational materials, frameworks, and other content, are owned by or licensed to Elder2Care.
+These materials are protected by applicable intellectual property laws.
+Subject to these Terms, Elder2Care grants you a limited, non exclusive, non transferable, revocable right to access and use the Services for their intended purpose.
+You may not reproduce, modify, distribute, publicly display, publish, sell, license, or create derivative works from Elder2Care materials without prior written permission.
+10. Feedback and Suggestions
+If you provide Elder2Care with feedback, ideas, recommendations, suggestions, or proposed improvements concerning the Services, you grant Elder2Care the right to use such feedback without restriction or compensation, provided that such use does not disclose your personal information contrary to applicable law or our Privacy Policy.
+11. Service Availability
+Elder2Care will make reasonable efforts to maintain the Services but does not guarantee that the Services will always be available, uninterrupted, secure, accurate, or error free.
+We may modify, suspend, restrict, or discontinue any portion of the Services at any time.
+We may also establish usage limits or restrict access to particular features.
+Where reasonably practicable, Elder2Care may provide notice of significant changes or discontinuation of Services.
+12. Fees and Payments
+Certain Elder2Care Services may be offered without charge, while other services may involve fees.
+Where fees apply, the applicable pricing and payment terms will be presented to you before you are required to make a payment.
+You agree to provide accurate payment information and to pay all applicable charges and taxes.
+Elder2Care may change its pricing from time to time. Any applicable changes will be communicated in accordance with applicable law.
+13. Privacy and Protection of Information
+Elder2Care recognizes that information concerning an individual’s care needs and circumstances may be sensitive.
+Our collection, use, disclosure, retention, and protection of personal information are governed by our Privacy Policy and applicable privacy laws.
+Where applicable, Elder2Care will obtain appropriate consent before collecting, using, or disclosing personal information.
+Different privacy requirements may apply depending upon the nature of the information, the service being provided, the user’s location, and the organization involved.
+You should review our Privacy Policy before using Services that require you to provide personal information.
+14. Communications
+By creating an account or otherwise providing contact information, you may receive service related communications from Elder2Care, including email, text messages, notifications, account communications, security notices, and information concerning your use of the Services.
+Where required by law, marketing communications will be subject to appropriate consent requirements.
+You may unsubscribe from promotional communications using the applicable unsubscribe mechanism.
+Service related communications may continue where reasonably necessary to provide the Services, maintain account security, or comply with legal obligations.
+15. Disclaimer
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+ELDER2CARE DOES NOT GUARANTEE THAT THE SERVICES OR INFORMATION PROVIDED THROUGH THE SERVICES WILL ALWAYS BE ACCURATE, COMPLETE, CURRENT, RELIABLE, AVAILABLE, SECURE, OR SUITABLE FOR YOUR PARTICULAR CIRCUMSTANCES.
+ELDER2CARE DOES NOT GUARANTEE THE AVAILABILITY, QUALITY, SAFETY, QUALIFICATIONS, PERFORMANCE, OR SUITABILITY OF ANY THIRD PARTY PROVIDER, ORGANIZATION, PROGRAM, PRODUCT, OR SERVICE IDENTIFIED THROUGH THE SERVICES.
+YOU ARE RESPONSIBLE FOR EVALUATING INFORMATION AND SERVICES BEFORE MAKING DECISIONS CONCERNING YOURSELF OR ANOTHER PERSON.
+NOTHING IN THESE TERMS EXCLUDES OR LIMITS ANY WARRANTY, RIGHT, OR REMEDY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+16. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ELDER2CARE AND ITS OWNERS, CONTRACTORS, REPRESENTATIVES, SERVICE PROVIDERS, AND AFFILIATES WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM OR RELATING TO YOUR ACCESS TO OR USE OF THE SERVICES.
+THIS INCLUDES, TO THE EXTENT PERMITTED BY LAW, LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, OR OTHER INDIRECT LOSSES.
+NOTHING IN THESE TERMS LIMITS LIABILITY FOR MATTERS THAT CANNOT LAWFULLY BE LIMITED OR EXCLUDED UNDER APPLICABLE LAW.
+17. Indemnification
+To the maximum extent permitted by applicable law, you agree to indemnify and hold harmless Elder2Care and its owners, representatives, contractors, service providers, and affiliates from claims, liabilities, damages, losses, and reasonable expenses arising from:
+	•	Your violation of these Terms.
+	•	Your unlawful or unauthorized use of the Services.
+	•	Information or content that you provide through the Services.
+	•	Your violation of another person’s rights.
+	•	Your use of third party services obtained through or identified by the Services.
+18. Suspension and Termination
+Elder2Care may suspend or terminate your access to the Services where we reasonably believe that you have violated these Terms, applicable law, or the rights or safety of another person.
+You may stop using the Services at any time.
+Where applicable, you may request cancellation or deletion of your account in accordance with our Privacy Policy.
+Termination does not necessarily eliminate obligations that by their nature should continue after termination, including provisions relating to intellectual property, disclaimers, limitation of liability, indemnification, dispute resolution, and governing law.
+19. Dispute Resolution
+Before commencing formal legal proceedings concerning a dispute arising from these Terms or the Services, the parties agree to make reasonable efforts to resolve the dispute informally.
+You may contact Elder2Care using the contact information provided below and describe the nature of the dispute and the resolution you are seeking.
+Nothing in this section prevents either party from seeking urgent injunctive or other equitable relief where such relief is legally available.
+Any dispute resolution provisions contained in these Terms are subject to applicable Canadian and provincial law and will not restrict any rights that cannot legally be waived.
+20. Governing Law
+These Terms are governed by the laws applicable in the Province of Ontario and the applicable federal laws of Canada, without regard to conflict of law principles.
+Where legally permissible, disputes concerning these Terms or the Services will be subject to the jurisdiction of the courts located in Ontario.
+Nothing in these Terms is intended to deprive a consumer of any mandatory rights or protections available under applicable law.
+21. Changes to These Terms
+Elder2Care may update these Terms from time to time.
+When material changes are made, Elder2Care may provide reasonable notice through the Services, by email, or through another appropriate communication method.
+Your continued use of the Services after the effective date of updated Terms constitutes acceptance of the updated Terms to the extent permitted by applicable law.
+22. Severability
+If any provision of these Terms is determined to be invalid, unlawful, or unenforceable, that provision will be interpreted or modified to the minimum extent necessary to make it enforceable, where legally permissible.
+The remaining provisions will continue in full force and effect.
+23. Entire Agreement
+These Terms, together with the Elder2Care Privacy Policy and any additional terms expressly incorporated into these Terms, constitute the agreement between you and Elder2Care concerning your use of the Services.
+They supersede prior understandings concerning the same subject matter, except where a separate written agreement expressly applies.
+24. Contact
+If you have questions about these Terms, the Services, account matters, privacy, or cancellation, please contact Elder2Care through the contact information published on the Elder2Care website.
+Elder2Care Brampton, Ontario, Canada
+Website: elder2care.ca
+Email: info@elder2care.ca
+
+IMPORTANT NOTICE
+Elder2Care is a care navigation and community support platform. Unless expressly stated otherwise, Elder2Care does not provide medical diagnosis, treatment, emergency medical services, legal advice, financial advice, or other regulated professional services.
+Users should seek advice from appropriately qualified professionals for decisions involving health, safety, legal, financial, or other professional matters.
+
